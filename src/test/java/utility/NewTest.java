@@ -18,5 +18,6 @@ public class NewTest {
 				
 				driver.findElement(By.tagName("a")).click();
 				//Test
+				driver.close();
   }
 }
