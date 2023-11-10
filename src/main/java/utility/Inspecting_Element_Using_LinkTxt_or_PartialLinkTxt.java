@@ -1,4 +1,4 @@
-package practice.utility;
+package utility;
 
 import java.time.Duration;
 
