@@ -1,4 +1,4 @@
-package practice.utility;
+package utility;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -17,5 +17,6 @@ public class NewTest {
 				driver.get(baseURL);
 				
 				driver.findElement(By.tagName("a")).click();
+				//Test
   }
 }
